@@ -13,7 +13,7 @@ Connects to the server.
 Uses Swing for the GUI interface.
 Allows users to send messages to the server and view received messages.
 ## Getting Started
-###Prerequisites
+### Prerequisites
 Java Development Kit (JDK) installed on your system.
 IDE or text editor for Java development.
 ## Installation
